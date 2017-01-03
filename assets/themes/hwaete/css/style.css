@@ -18,7 +18,7 @@ li p {
 }
 
 a {
-  color: inherit;
+  color: #222;
   font-weight: bold;
   text-decoration: none;
   cursor: pointer;
@@ -28,7 +28,7 @@ a:hover {
   color: #636363;
 }
 
-h4 {
+.post h4 {
   opacity: 0.5;
 }
 
@@ -58,6 +58,7 @@ blockquote {
   position: relative;
   float: left;
   margin-right: 1rem;
+  margin-bottom: 1rem;
 }
 
 .time-type {
