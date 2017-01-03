@@ -74,3 +74,8 @@ blockquote {
   position: absolute;
   top: 0px;
 }
+
+footer {
+  padding: 2rem 0;
+  opacity: 0.5;
+}
