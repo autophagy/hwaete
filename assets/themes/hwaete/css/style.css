@@ -1,0 +1,75 @@
+html {
+    font-size: 76.5%;
+}
+
+body {
+  background-color: #f7f7f7;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+  margin: 3rem 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+li p {
+  display: inline;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #636363;
+}
+
+h4 {
+  opacity: 0.5;
+}
+
+.page-header {
+  border-bottom: 1px solid #eaeaea;
+  margin-bottom: 2rem;
+}
+
+.post-date {
+  opacity: 0.5;
+}
+
+blockquote {
+  font-size: 2em;
+}
+
+.recipe-time-container {
+  display: inline-block;
+  margin-bottom: 2rem;
+}
+
+.recipe-time {
+  background-color: #222;
+  width: 150px;
+  height: 150px;
+  color: white;
+  position: relative;
+  float: left;
+  margin-right: 1rem;
+}
+
+.time-type {
+  bottom: 10px;
+  left: 15px;
+  font-weight: 200;
+  position: absolute;
+}
+
+.time-amount {
+  font-size: 4rem;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+}

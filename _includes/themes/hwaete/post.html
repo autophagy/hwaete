@@ -1,0 +1,12 @@
+<div class="page-header">
+  <h3>{{ page.title }} <span class="post-date">/ {{ page.date | date_to_long_string}}</span></h3>
+</div>
+
+<div class="content">
+  {{ content }}
+</div>
+
+{% unless page.tags == empty %}
+  {% assign tags_list = page.tags %}
+  {% include JB/tags_list %}
+{% endunless %}
