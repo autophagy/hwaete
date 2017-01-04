@@ -1,2 +1,3 @@
-# hwaete
-Hwǣte - A bread diary
+![logo](images/logo.png)
+
+A bread diary
