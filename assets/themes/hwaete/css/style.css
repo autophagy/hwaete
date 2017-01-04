@@ -53,7 +53,7 @@ blockquote {
 
 .recipe-detail {
   background-color: #222;
-  width: 150px;
+  min-width: 150px;
   height: 150px;
   color: #f7f7f7;
   position: relative;
@@ -71,8 +71,8 @@ blockquote {
 
 .detail-amount {
   font-size: 4rem;
-  left: 15px;
-  position: absolute;
+  margin: 0px 15px;
+  position: relative;
   top: 0px;
 }
 
