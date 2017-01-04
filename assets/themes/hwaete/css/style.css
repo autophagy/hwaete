@@ -45,12 +45,13 @@ blockquote {
   font-size: 2em;
 }
 
-.recipe-time-container {
+.recipe-details-container {
   display: inline-block;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 
-.recipe-time {
+.recipe-detail {
   background-color: #222;
   width: 150px;
   height: 150px;
@@ -61,14 +62,14 @@ blockquote {
   margin-bottom: 1rem;
 }
 
-.time-type {
+.detail-type {
   bottom: 10px;
   left: 15px;
   font-weight: 200;
   position: absolute;
 }
 
-.time-amount {
+.detail-amount {
   font-size: 4rem;
   left: 15px;
   position: absolute;

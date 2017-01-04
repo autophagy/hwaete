@@ -1,0 +1,43 @@
+<div class="recipe-details-container">
+  {% if include.hydration %}
+  <div class="recipe-detail">
+    <div class="detail-amount">
+      {{include.hydration}}%
+    </div>
+    <div class="detail-type">
+      hydration
+    </div>
+  </div>
+  {% endif %}
+  
+  {% if include.rising_time %}
+  <div class="recipe-detail">
+    <div class="detail-amount">
+      {{include.rising_time}}
+    </div>
+    <div class="detail-type">
+      rising time
+    </div>
+  </div>
+  {% endif %}
+
+  {% if include.baking_time %}
+  <div class="recipe-detail">
+    <div class="detail-amount">
+      {{include.baking_time}}
+    </div>
+    <div class="detail-type">
+      baking time
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="recipe-detail">
+    <div class="detail-amount">
+      {{include.total_time}}
+    </div>
+    <div class="detail-type">
+      total time
+    </div>
+  </div>
+</div>
