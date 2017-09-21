@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>hwǣte</title>
+        <description>hwǣte - Autophagy (Mika)</description>
+        <link>http://hwaete.autophagy.io</link>
+        <atom:link href="http://hwaete.autophagy.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 22 Sep 2017 00:56:33 +0200</lastBuildDate>
+        <pubDate>Fri, 22 Sep 2017 00:56:33 +0200</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Sesame Seed Bagels</title>
+                <description>
+&lt;p&gt;Bagels are something I’ve wanted to try for a while and luckily &lt;em&gt;The Bread Bible&lt;/em&gt;
+had a great looking recipe that I gave a shot. Since this was an experimental batch
+I used half the amount the full recipe proscribed which produced 5 (very nice!)
+bagels. I used sesame seeds as a topping since I had them on hand, but in future
+I may try poppy seeds or onion.&lt;/p&gt;
+
+&lt;p&gt;I was pretty satisfied with the end result - the bagels were quite solid on the
+outside and really chewy inside (in a nice, satisfying way). In the next batch I
+try I will probably submerge the bagels in the boiling water for less time and see
+if that produces a softer exterior.&lt;/p&gt;
+
+&lt;p&gt;I will also work on my shaping technique!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/04/1.jpg&quot; alt=&quot;pre-ferment&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;bagels risen and shaped&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/04/2.jpg&quot; alt=&quot;dough in dutch oven&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;boiling the bagels - this gives them a harder, chewy exterior&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/04/3.jpg&quot; alt=&quot;finished bread in dutch oven&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;finished bagels&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/04/4.jpg&quot; alt=&quot;crust&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the crumb - satisfyingly chewy&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;recipe-details-container&quot;&gt;
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      64%
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      hydration
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      6h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      rising time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      35m
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      baking time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      6.58h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      total time
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;h5 id=&quot;dough-starter-sponge&quot;&gt;Dough Starter (Sponge)&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;234g white flour&lt;/li&gt;
+  &lt;li&gt;4g fresh yeast&lt;/li&gt;
+  &lt;li&gt;266ml lukewarm water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;flour-mixture&quot;&gt;Flour Mixture&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;21g unsalted butter&lt;/li&gt;
+  &lt;li&gt;182g white flour&lt;/li&gt;
+  &lt;li&gt;4g fresh yeast&lt;/li&gt;
+  &lt;li&gt;10g brown sugar&lt;/li&gt;
+  &lt;li&gt;10g salt&lt;/li&gt;
+  &lt;li&gt;0.5 tsp black pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;water-bath&quot;&gt;Water Bath&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;50g sugar&lt;/li&gt;
+  &lt;li&gt;1 tsp baking soda&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;glaze-and-toppings&quot;&gt;Glaze and Toppings&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 egg whites&lt;/li&gt;
+  &lt;li&gt;1 tsp cold water&lt;/li&gt;
+  &lt;li&gt;handful of sesame seeds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make the sponge by combining the dough starter ingredients in a large bowl and
+whisking together until smooth.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combine the flour, yeast, sugar, salt and pepper in a bowl and gently scoop on
+top of the sponge to cover it. Cover the bowl with cling film and leave to rest
+somewhere warm for 2 hours. During this time, the sponge will bubble up through
+the flour layer in places.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add the butter to the sponge/flour mixture and combine with a wooden spoon.
+Knead the dough for 5 minutes and then let it rest for 20 minutes underneath the
+upturned bowl, as this will make it easier to work with. Then knead for another
+5-10 minutes, until it is smooth and bounces back when you indent it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Put the dough in a suitably oiled rising container and cover it with cling film.
+Leave it to rise somewhere warm for an hour, until doubled. Deflate the dough,
+give a business letter turn and put it back into the container. Let it rise in the
+fridge for 4 hours. Before you shape it, let it stand at room temperature for 30 mins.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Divide the dough into 5 balls and shape into bagels. Make the holes wider than
+you would think, since they will puff up during the boiling and baking stage. Let them
+rest under a towel for 10 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Preheat the oven to  230°C. Bring a large pot of water to the boil and add the
+sugar and baking soda. Stir until dissolved. Put the bagels in 2 at a time and
+flip them over after 1 minute or so. Let the bagels rest on an &lt;em&gt;oiled&lt;/em&gt; parchment
+sheet while you submerge the rest of the bagels.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Whisk together the egg whites and cold water, and glaze the bagels with a brush.
+Sprinkle the sesame seeds on top of the glazing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Transfer the baking sheet to the oven (preferably on top of a baking stone) and
+let them bake for 25 minutes. Turn off the oven and &lt;em&gt;without opening it&lt;/em&gt; let the
+bagels rest for 5 minutes. Open the oven door and let the bagels rest for a further
+5 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Transfer to a wire rack and let them cool completely.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                <link>http://hwaete.autophagy.io/2017/01/22/04-sesame-seed-bagels</link>
+                <guid>http://hwaete.autophagy.io/2017/01/22/04-sesame-seed-bagels</guid>
+                <pubDate>Sun, 22 Jan 2017 00:00:00 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Basic Hearth Bread</title>
+                <description>
+&lt;p&gt;This is one of my favourite breads to make, and it is from Rose Levy Beranbaum’s &lt;em&gt;The Bread Bible&lt;/em&gt;. Very simple in terms of ingredients,
+but the pre-fermentation and mixed flours make a bread that has a beautiful colour,
+chewy crumb and really good flavour.&lt;/p&gt;
+
+&lt;p&gt;I normally let the pre-ferment rise for an hour, but decided this time to go for 3
+hours instead to see if the flavour developed further. I think it definitely did,
+and next time I will let it rise for 24 hours in the fridge to see if this hightens
+it even further.&lt;/p&gt;
+
+&lt;p&gt;This was also the first time I used a dutch oven to bake the bread rather than just
+sticking it on a baking stone and putting water in the bottom of the oven. The idea
+is that you bake the bread with the lid on for a period of time, and then a period
+with the lid removed. The lid traps the moisture from the dough and keeps it hydrated
+in the same way that adding water or ice cubes to the oven does. It’s a technique
+that I will definitely use when making boules in future.&lt;/p&gt;
+
+&lt;p&gt;Overall, this is probably the best tasting bread I’ve made so far! The main problem
+with it was that 1 boule was nowhere near enough!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/03/1.jpg&quot; alt=&quot;pre-ferment&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;pre-ferment bubbling up through the flour layer&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/03/2.jpg&quot; alt=&quot;dough in dutch oven&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;ready to bake&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/03/3.jpg&quot; alt=&quot;finished bread in dutch oven&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the finished bread - kept a close eye on it to achieve
+a dark brown colour in the final baking stage&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/03/4.jpg&quot; alt=&quot;crust&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the crust&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/03/5.jpg&quot; alt=&quot;crumb&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the crumb&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;recipe-details-container&quot;&gt;
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      66.6%
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      hydration
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      6h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      rising time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      40m
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      baking time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      6.66h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      total time
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;h5 id=&quot;dough-starter-sponge&quot;&gt;Dough Starter (Sponge)&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;156g white flour&lt;/li&gt;
+  &lt;li&gt;36g whole wheat flour&lt;/li&gt;
+  &lt;li&gt;2g fresh yeast&lt;/li&gt;
+  &lt;li&gt;9g honey&lt;/li&gt;
+  &lt;li&gt;322ml lukewarm water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;flour-mixture&quot;&gt;Flour Mixture&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;292g white flour&lt;/li&gt;
+  &lt;li&gt;2g fresh yeast&lt;/li&gt;
+  &lt;li&gt;10g salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make the sponge by combining the dough starter ingredients in a large bowl and
+whisking together until smooth.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combine the 2 flours for the flour mixture (do &lt;strong&gt;not&lt;/strong&gt; add in the salt yet) in
+a bowl and gently scoop on top of the sponge to cover it. Cover the bowl with cling
+film and leave to rest somewhere warm for 3 hours. During this time, the sponge will
+bubble up through the flour layer in places.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add the salt, then bring the mixture together with a wooden spoon. At this point
+the dough will be &lt;em&gt;very&lt;/em&gt; sticky. Knead the dough for 5 minutes and then let it rest
+for 20 minutes underneath the upturned bowl, as this will make it easier to work
+with. Then knead for another 5-10 minutes, until it is smooth and bounces back when
+you indent it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Put the dough in a suitably oiled rising container and cover it with cling film.
+Leave it to rise in a warm place until it has doubled in size, which is usually 45-60
+minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When it has doubled in size, take the dough out and gently press it into a rectangle.
+Give the dough 1 business letter turn (fold up the bottom third, then the top third
+and press) and return the dough to your rising container. Let it rise until doubled
+again.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remove the dough from the rising container and put in a well floured banneton.
+Cover the banneton with a clean towel and let it rise again for an hour.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;While it is rising, preheat your oven to 250°C and put your dutch oven in. By
+the time the dough has finished rising a third time, both should be very hot, so
+be careful!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tip the dough onto a sheet of baking paper. Use the baking paper like a sling
+to lower it into the pre-heated dutch oven. Put the lid on and put the dutch oven
+back into your oven and let the dough bake for 20 minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After 20 minutes, take the dutch oven’s lid off. Bake for another 20 minutes, or
+until it achieved the golden brown colour you’re after.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remove the bread from the dutch oven and place on a wire rack to cool off.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                <link>http://hwaete.autophagy.io/2017/01/16/03-basic-hearth-bread</link>
+                <guid>http://hwaete.autophagy.io/2017/01/16/03-basic-hearth-bread</guid>
+                <pubDate>Mon, 16 Jan 2017 00:00:00 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>Hokkaido Milk Rolls</title>
+                <description>
+&lt;p&gt;The recipe for these &lt;em&gt;amazingly&lt;/em&gt; fluffy and soft bread rolls was found at
+&lt;a href=&quot;http://www.curiousnut.com/hokkaido-milk-rolls/&quot;&gt;Curious Nut&lt;/a&gt;. I substituted
+2 tablespoons of honey for 2 tablespoons of sugar, as I had run out.
+This recipe uses a milk based &lt;a href=&quot;https://www.cookipedia.co.uk/recipes_wiki/Tang_zhong&quot;&gt;Tang Zhong&lt;/a&gt;
+and I had no thermometer, so I had to kind of guess when it was at the right temperature.
+Everything turned out super nice, and I’m definitely eating all of these as quickly
+as humanly possible for breakfast tomorrow.&lt;/p&gt;
+
+&lt;p&gt;I’m replicating the ingredients list here in metric for future reference.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/02/1.jpg&quot; alt=&quot;dough flattened and rolled&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;after the first rise, the dough balls are flattened and
+rolled&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/02/2.jpg&quot; alt=&quot;rolls after the 2nd rising&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;after the second rise&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/02/3.jpg&quot; alt=&quot;finished rolls&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;freshly baked! The egg glaze makes them look gorgeous&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/02/4.jpg&quot; alt=&quot;crumb&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the crumb. Incredibly light and fluffy&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;recipe-details-container&quot;&gt;
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      68%
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      hydration
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      2h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      rising time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      15m
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      baking time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      2.25h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      total time
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;h5 id=&quot;tang-zhong&quot;&gt;Tang Zhong&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;100ml milk&lt;/li&gt;
+  &lt;li&gt;20g flour&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;dough&quot;&gt;Dough&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;150ml warm milk&lt;/li&gt;
+  &lt;li&gt;2 tbsp honey&lt;/li&gt;
+  &lt;li&gt;1.5 tsp fresh yeast&lt;/li&gt;
+  &lt;li&gt;365g white flour&lt;/li&gt;
+  &lt;li&gt;1 tsp salt&lt;/li&gt;
+  &lt;li&gt;1 large room temperature egg&lt;/li&gt;
+  &lt;li&gt;1 tbsp unsalted butter, softened&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;egg-wash&quot;&gt;Egg Wash&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 egg, beaten lightly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h4&gt;
+
+&lt;p&gt;As specified on &lt;a href=&quot;http://www.curiousnut.com/hokkaido-milk-rolls/&quot;&gt;Curious Nut&lt;/a&gt;.&lt;/p&gt;
+</description>
+                <link>http://hwaete.autophagy.io/2017/01/08/02-hokkaido-milk-rolls</link>
+                <guid>http://hwaete.autophagy.io/2017/01/08/02-hokkaido-milk-rolls</guid>
+                <pubDate>Sun, 08 Jan 2017 00:00:00 +0100</pubDate>
+        </item>
+
+        <item>
+                <title>50/50 Mix Simple Loaf</title>
+                <description>
+&lt;p&gt;First bread of the year is probably the simplest one I could make. Quick (for bread),
+fairly low effort and with a 50/50 mix of white flour and whole-wheat flour. It’s
+also a good excuse to try out one of my Christmas presents - a rectangular wicker
+banneton. Although it came out a little flat and weird (my mistake!), it’s still
+pretty nice. All bread is beautiful.&lt;/p&gt;
+
+&lt;p&gt;Remember kids: always flour your banneton thoroughly!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/01/1.jpg&quot; alt=&quot;dough after kneading&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;I really like the appearance of the post-kneaded 50/50 mix&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/01/2.jpg&quot; alt=&quot;dough suspended in water&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;it’s really cold here in Berlin, so I suspended the dough
+in warm water to encourage rising&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/01/3.jpg&quot; alt=&quot;dough in banneton&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the dough after an hour in the banneton&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/01/4.jpg&quot; alt=&quot;finished loaf&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the finished loaf. a little flat - I didn’t flour the
+banneton enough and a large section of the top got stuck. My efforts to free it
+knocked a lot of the air out, and I should’ve let it rise for another hour but I was
+impatient :(&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/01/5.jpg&quot; alt=&quot;crust closeup&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the crust - nice and crispy as I steamed the oven while
+baking&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/01/6.jpg&quot; alt=&quot;crumb closeup&quot; /&gt;
+&lt;span class=&quot;img-caption&quot;&gt;the crumb - tastes good, a little disappointing visually.
+Very little in the way of air pockets&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;recipe-details-container&quot;&gt;
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      60%
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      hydration
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+  
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      2h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      rising time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      30m
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      baking time
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+
+  &lt;div class=&quot;recipe-detail&quot;&gt;
+    &lt;div class=&quot;detail-amount&quot;&gt;
+      2.5h
+    &lt;/div&gt;
+    &lt;div class=&quot;detail-type&quot;&gt;
+      total time
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;250g white flour&lt;/li&gt;
+  &lt;li&gt;250g whole-wheat flour&lt;/li&gt;
+  &lt;li&gt;2 tsp salt&lt;/li&gt;
+  &lt;li&gt;7g fresh yeast&lt;/li&gt;
+  &lt;li&gt;2 tbsp olive oil&lt;/li&gt;
+  &lt;li&gt;300ml likewarm water&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;algorithm&quot;&gt;Algorithm&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mix the 2 flours, yeast and salt in a mixing bowl. Pour in the olive oil and
+water and mix well with a wooden spoon. Remove the dough onto a floured surface
+(not too much though - the dough is already quite dry) and knead until smooth and
+springy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Place dough in a lightly oiled bowl and cover with clingfilm. I tend to use a
+neutral oil here instead of olive oil. Leave the dough to rise until it has
+doubled in volume - usually around an hour.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pre-heat oven and baking stone to about 200°C/fan 200°C, with a baking tray
+placed at the bottom of the oven. Punch the air out of the dough and put in a
+&lt;strong&gt;well floured&lt;/strong&gt; banneton. If not using one, mould the dough into a ball and place
+on baking paper with the mixing bowl covering it. Leave the dough to double in
+volume again for about an hour.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dust the loaf with flour and score the surface to control it’s expansion. Bake
+in the oven for about 25-30 minutes - until it turns a nice dark/golden brown colour.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cool on a rack for about 10 minutes. Then enjoy!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                <link>http://hwaete.autophagy.io/2017/01/06/01-simple-mixed-loaf</link>
+                <guid>http://hwaete.autophagy.io/2017/01/06/01-simple-mixed-loaf</guid>
+                <pubDate>Fri, 06 Jan 2017 00:00:00 +0100</pubDate>
+        </item>
+
+
+</channel>
+</rss>
