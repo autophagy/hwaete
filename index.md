@@ -3,10 +3,9 @@ layout: page
 ---
 {% include JB/setup %}
 
-Hwæt! This is [autophagy's](http://autophagy.io/) bread diary for 2017. I am mostly
+Hwæt! This is [autophagy's](http://autophagy.io/) bread diary. I am mostly
 working from Rose Levy Beranbaum's [The Bread Bible](http://books.wwnorton.com/books/The-Bread-Bible/),
-but will include other sources in the posts as I use them. Aiming for something
-every week.
+but will include other sources in the posts as I use them.
 
 {% for post in site.posts %}
 <h4>
