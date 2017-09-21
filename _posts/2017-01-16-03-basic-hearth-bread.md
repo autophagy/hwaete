@@ -3,6 +3,7 @@ layout: post
 tags: ['bread', 'mixed flour', 'banneton', 'pre-ferment']
 title: 'Basic Hearth Bread'
 bread_num: 3
+datarum: '225-4-27'
 ---
 {% include JB/setup %}
 

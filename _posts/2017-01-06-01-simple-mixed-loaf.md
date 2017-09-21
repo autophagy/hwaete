@@ -3,6 +3,7 @@ layout: post
 tags: ['bread', 'mixed flour', 'banneton', 'low effort']
 title: '50/50 Mix Simple Loaf'
 bread_num: 1
+datarum: '225-4-17'
 ---
 {% include JB/setup %}
 

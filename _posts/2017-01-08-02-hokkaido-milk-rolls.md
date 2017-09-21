@@ -3,6 +3,7 @@ layout: post
 tags: ['bread', 'white flour']
 title: 'Hokkaido Milk Rolls'
 bread_num: 2
+datarum: '225-4-19'
 ---
 {% include JB/setup %}
 

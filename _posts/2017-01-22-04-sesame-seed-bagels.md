@@ -3,6 +3,7 @@ layout: post
 tags: ['bagels', 'white flour', 'pre-ferment']
 title: 'Sesame Seed Bagels'
 bread_num: 4
+datarum: '225-5-3'
 ---
 {% include JB/setup %}
 
